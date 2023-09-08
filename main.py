@@ -46,6 +46,9 @@ def add_hotkeys(window, windows):
             for win in windows:
                 win.maximize()
 
+        if symbol == pyglet.window.key.DOWN:
+            window.minimize()
+
 
 def main():
     run_app()
