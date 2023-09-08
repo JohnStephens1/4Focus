@@ -4,12 +4,6 @@ import sys
 import os
 
 # todo
-#  add title
-#  check for performance optimization
-
-# todo
-#  figure out how to reliably package program for non-python users
-#  add sad cat meme as icon
 #  write readme (4 everything ;-;)
 
 
