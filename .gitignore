@@ -1,1 +1,9 @@
-.idea/ 
+.idea 
+venv
+
+dist
+build
+main.spec
+4Focus.spec
+
+get-exe.bat
