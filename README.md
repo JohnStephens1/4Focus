@@ -49,4 +49,4 @@ If you enjoyed this, feel free to check out my other quality-of-life tools, all 
 
 If you found anything useful, sharing them with people who might profit from them as well would be highly appreciated.
 
-Alternatively, any and every donation would mean a lot and help me keep making them. #very meh phrasing
+Alternatively, any and every donation would mean a lot and help me keep making them.
