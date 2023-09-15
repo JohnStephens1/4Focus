@@ -5,6 +5,7 @@ import os
 
 # todo
 #  write readme (4 everything ;-;)
+#  add requirements.txt
 
 
 APPLICATION_PATH = os.path.dirname(__file__) if getattr(sys, 'frozen', True) else os.path.dirname(sys.executable)
