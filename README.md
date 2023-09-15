@@ -1,7 +1,3 @@
-## Blurb
-A simple and elegant tool to remove unwanted distractions from unused monitors.
-
-
 ## Introduction
 4Focus is a simple tool aimed to increase focus by reducing distractions, with the goal to provide maximum user-friendliness by providing a simple but efficient surface to interact with. 
 
@@ -53,4 +49,4 @@ If you enjoyed this, feel free to check out my other quality-of-life tools, all 
 
 If you found anything useful, sharing them with people who might profit from them as well would be highly appreciated.
 
-Alternatively, any and every donation would mean a lot and help me keep making them.
+Alternatively, any and every donation would mean a lot and help me keep making them. #very meh phrasing
