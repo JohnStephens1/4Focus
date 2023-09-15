@@ -1,11 +1,11 @@
 ## Introduction
-4Focus is a simple tool aimed to increase focus by reducing distractions, with the goal to provide maximum user-friendliness by providing a simple but efficient surface to interact with. 
+**4Focus** is a simple tool aimed to increase focus by reducing distractions, with the goal to provide maximum user-friendliness by providing a simple but efficient surface to interact with. 
 
 This allows for more directed focus while working or studying, or removing visual clutter when watching movies or videos, while still allowing for fast and flexible use of all available monitors.
 
 
 ## So What Does It Do
-4Focus opens up black windows covering every connected monitor. You can bring the windows you need back into focus for example by using alt-tab or the windows-key to show the taskbar, and freely move them around and over the black background. Simple in essence, but very effective.
+**4Focus** opens up black windows covering every connected monitor. You can bring the windows you need back into focus for example by using alt-tab or the windows-key to show the taskbar, and freely move them around and over the black background. Simple in essence, but very effective.
 
 There are several hotkeys in place to enhance the user experience:
 
@@ -25,9 +25,9 @@ To use the hotkeys, simply bring any of the windows into focus (alt-tab, clickin
 
 ## How to Install
 
-Simply download 4Focus.exe, and you're good to go! No installation required, not even Python.
+Simply download `4Focus.exe` from the _Releases_ section, and you're good to go! No installation required, not even Python.
 
-The first time running the .exe file you might get a warning saying that the app isn't recognized, but after clicking 'More Info' and 'Run anyway' the warning shouldn't pop up anymore.
+The first time running the `.exe` file you might get a warning saying that the app isn't recognized, but after clicking 'More Info' and 'Run anyway' the warning shouldn't pop up anymore.
 
 The only way to get rid of the warning would require me to buy a yearly subscription costing hundreds of euros, and since this is free, open-source software, that isn't in the cards for now.
 
@@ -43,6 +43,7 @@ python -m pip install -r requirements.txt
 ## Donations
 If you enjoyed this, feel free to check out my other quality-of-life tools, all free and open-source as well, no ads and no nonsense.
 
+_(coming soon)_
 - ShutDownEr: xxx
 - Timerrhymer: xxx
 - BingerBoi: xxx
