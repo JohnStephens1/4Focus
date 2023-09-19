@@ -40,8 +40,19 @@ def add_hotkeys(window, windows):
             for win in windows:
                 win.maximize()
 
-        if symbol == pyglet.window.key.DOWN:
+        if (
+            symbol == pyglet.window.key.DOWN and
+            not modifiers & pyglet.window.key.MOD_CTRL
+        ):
             window.minimize()
+
+        if (
+            modifiers & pyglet.window.key.MOD_CTRL and
+            symbol == pyglet.window.key.DOWN
+        ):
+            for win in windows:
+                if win != window:
+                    win.minimize()
 
 
 def main():
