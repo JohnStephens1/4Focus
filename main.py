@@ -33,7 +33,10 @@ def add_hotkeys(window, windows):
             for win in windows:
                 win.minimize()
 
-        if symbol == pyglet.window.key.SPACE:
+        if (
+            symbol == pyglet.window.key.SPACE or
+            symbol == pyglet.window.key.UP
+        ):
             for win in windows:
                 win.maximize()
 
