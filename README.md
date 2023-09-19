@@ -51,3 +51,5 @@ _(coming soon)_
 If you found anything useful, sharing them with people who might profit from them as well would be highly appreciated.
 
 Alternatively, any and every donation would mean a lot and help me keep making them.
+
+https://www.paypal.com/donate/?hosted_button_id=L4X2DFAYMJ72U
