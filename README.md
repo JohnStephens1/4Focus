@@ -1,11 +1,22 @@
+## Table of Contents
+1. [Introduction](#introduction)
+2. [So What Does It Do](#so-what-does-it-do)
+   1. [Hotkeys](#hotkeys)
+3. [How to Install](#how-to-install)
+4. [More Tools](#more-tools)
+5. [Support](#support)
+
+
 ## Introduction
-**4Focus** is a simple tool aimed to increase focus by reducing distractions, with the goal to provide maximum user-friendliness by providing a simple but efficient surface to interact with. 
+*4Focus* is a simple tool aimed to increase focus by reducing distractions, with the goal to provide maximum user-friendliness by providing a simple but efficient surface to interact with. 
 
 This allows for more directed focus while working or studying, or removing visual clutter when watching movies or videos, while still allowing for fast and flexible use of all available monitors.
 
 
 ## So What Does It Do
-**4Focus** opens up black windows covering every connected monitor. You can bring the windows you need back into focus for example by using alt-tab or the windows-key to show the taskbar, and freely move them around and over the black background. Simple in essence, but very effective.
+*4Focus* opens up black windows covering every connected monitor. You can bring the windows you need back into focus for example by using alt-tab or the windows-key to show the taskbar, and freely move them around and over the black background. Simple in essence, but very effective.
+
+### Hotkeys
 
 There are several hotkeys in place to enhance the user experience:
 
@@ -40,13 +51,16 @@ Alternatively, if you prefer to use Python to run the program instead, clone the
 python -m pip install -r requirements.txt
 ```
 
-## Donations
-If you enjoyed this, feel free to check out my other quality-of-life tools, all free and open-source as well, no ads and no nonsense.
+
+## More Tools
+If you enjoyed _4Focus_, feel free to check out my other quality-of-life tools, all free and open-source as well, no ads and no nonsense.
 
 _(coming soon)_
 - ShutDownEr: xxx
 - Timerrhymer: xxx
 - BingerBoi: xxx
+
+## Support
 
 If you found anything useful, sharing them with people who might profit from them as well would be highly appreciated.
 
