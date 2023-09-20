@@ -10,12 +10,13 @@ This allows for more directed focus while working or studying, or removing visua
 There are several hotkeys in place to enhance the user experience:
 
 
-| key | function |
-|-|-|
-| escape | to exit the program |
-| m | to minimize all windows |
-| space | to maximize all windows |
-| down | to minimize only the current window |
+| key           | function                               |
+|---------------|----------------------------------------|
+| escape        | to exit the program                    |
+| m             | to minimize all windows                |
+| space *or* up | to maximize all windows                |
+| down          | to minimize only the current window    |
+| ctrl-down     | to minimize all but the current window |
 
 
 These allow for fast and flexible window management, and allow for example an easy "hard reset" when the visual clutter starts taking over again, and much more with the click of a single button.
@@ -38,7 +39,6 @@ Alternatively, if you prefer to use Python to run the program instead, clone the
 ```batch
 python -m pip install -r requirements.txt
 ```
-
 
 ## Donations
 If you enjoyed this, feel free to check out my other quality-of-life tools, all free and open-source as well, no ads and no nonsense.
