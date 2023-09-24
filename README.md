@@ -3,36 +3,36 @@
 2. [So What Does It Do](#so-what-does-it-do)
    1. [Hotkeys](#hotkeys)
 3. [How to Install](#how-to-install)
-4. [More Tools](#more-tools)
+4. [More Tools From Me](#more-tools-from-me)
 5. [Support](#support)
 
 
 ## Introduction
-*4Focus* is a simple tool aimed to increase focus by reducing distractions, with the goal to provide maximum user-friendliness by providing a simple but efficient surface to interact with. 
+_4Focus_ is a simple tool aimed to increase focus by reducing distractions, with the goal to provide maximum user-friendliness by providing a simple but efficient surface to interact with. 
 
 This allows for more directed focus while working or studying, or removing visual clutter when watching movies or videos, while still allowing for fast and flexible use of all available monitors.
 
 
 ## So What Does It Do
-*4Focus* opens up black windows covering every connected monitor. You can bring the windows you need back into focus for example by using alt-tab or the windows-key to show the taskbar, and freely move them around and over the black background. Simple in essence, but very effective.
+_4Focus_ opens up black windows covering every connected monitor. You can bring the windows you need back into focus for example by using _alt-tab_ or the _windows-key_ to show the taskbar, and freely move them around and over the black background. Simple in essence, but very effective.
 
 ### Hotkeys
 
 There are several hotkeys in place to enhance the user experience:
 
 
-| key           | function                               |
-|---------------|----------------------------------------|
-| escape        | to exit the program                    |
-| m             | to minimize all windows                |
-| space *or* up | to maximize all windows                |
-| down          | to minimize only the current window    |
-| ctrl-down     | to minimize all but the current window |
+| key             | function                               |
+|-----------------|----------------------------------------|
+| _escape_        | to exit the program                    |
+| _m_             | to minimize all windows                |
+| _space_ or _up_ | to maximize all windows                |
+| _down_          | to minimize only the current window    |
+| _ctrl-down_     | to minimize all but the current window |
 
 
 These allow for fast and flexible window management, and allow for example an easy "hard reset" when the visual clutter starts taking over again, and much more with the click of a single button.
 
-To use the hotkeys, simply bring any of the windows into focus (alt-tab, clicking on one, etc.) and pressing the desired button.
+To use the hotkeys, simply bring any of the windows into focus (_alt-tab_, clicking on one, etc.) and pressing the desired button.
 
 
 ## How to Install
@@ -52,13 +52,13 @@ python -m pip install -r requirements.txt
 ```
 
 
-## More Tools
+## More Tools From Me
 If you enjoyed _4Focus_, feel free to check out my other quality-of-life tools, all free and open-source as well, no ads and no nonsense.
 
 _(coming soon)_
-- ShutDownEr: xxx
-- Timerrhymer: xxx
-- BingerBoi: xxx
+- _ShutDownEr_: xxx
+- _Timerrhymer_: https://github.com/JohnStephens1/Timerrhymer
+- _BingerBoi_: xxx
 
 ## Support
 
